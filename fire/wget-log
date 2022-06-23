@@ -1,0 +1,11 @@
+--2022-06-14 17:18:58--  https://image.baidu.com/search/down?tn=download
+Resolving image.baidu.com (image.baidu.com)... 36.152.44.79, 2409:8c00:6c21:1011:0:ff:b039:578b
+Connecting to image.baidu.com (image.baidu.com)|36.152.44.79|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 0 [text/html]
+Saving to: ‘down?tn=download’
+
+down?tn=download                           [<=>                                                                          ]       0  --.-KB/s               down?tn=download                           [ <=>                                                                         ]       0  --.-KB/s    in 0s      
+
+2022-06-14 17:18:58 (0.00 B/s) - ‘down?tn=download’ saved [0/0]
+
